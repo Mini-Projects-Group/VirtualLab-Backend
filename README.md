@@ -38,7 +38,7 @@ git clone https://github.com/Mini-Projects-Group/VirtualLab-Backend
 Make sure that you are in the project folder:
 
 ```
-	ls
+ls
 ```
 
 should yield you :
@@ -50,19 +50,15 @@ VirtualLab-Backend
 
 To install all the required dependencies:
 ```
-
 cd VirtualLab-Backend
-yarn
-
+yarn install
 
 ```
 
 Create .env file in VirtualLab-Backend by:
 
 ```
-
 mkdir .env
-
 ```
 
 Append these details to .env file:
